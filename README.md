@@ -1,5 +1,5 @@
 # BTC Sentiment × Trader Performance Analysis
-### PrimetradeAI Internship Assignment — Data Science Role
+### PrimetradeAI Internship Assignment — Artificial Intelligence
 
 ## Overview
 Exploratory analysis of the relationship between Bitcoin market sentiment 
